@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Bebas; 
+    src: url(../fonts/BebasNeue-Regular.ttf);
+   }
+@font-face {
+    font-family: Lato; 
+    src: url(../fonts/Lato-Regular.ttf);
+   }
+@font-face {
+    font-family: Lobster; 
+    src: url(../fonts/Lobster-Regular.ttf);
+   }
+@font-face {
+    font-family: OpenSans; 
+    src: url(../fonts/OpenSans-Regular.ttf);
+   }
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+
+.open {
+	font-family: 'OpenSans'; 	
+}
+.lobster {
+	font-family: 'Lobster';
+}
+.lato {
+	font-family: 'Lato';
+}
+.bebas {
+	font-family: 'Bebas';
+}
